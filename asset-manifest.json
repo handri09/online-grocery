@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/online-grocery/static/css/main.f41f6f4b.css",
+    "main.js": "/online-grocery/static/js/main.6818f8c4.js",
+    "static/js/787.17c43eeb.chunk.js": "/online-grocery/static/js/787.17c43eeb.chunk.js",
+    "static/media/egg.jpg": "/online-grocery/static/media/egg.4d911d051faadc659fa4.jpg",
+    "static/media/egg-2.jpg": "/online-grocery/static/media/egg-2.b8045f993804129ac790.jpg",
+    "index.html": "/online-grocery/index.html",
+    "main.f41f6f4b.css.map": "/online-grocery/static/css/main.f41f6f4b.css.map",
+    "main.6818f8c4.js.map": "/online-grocery/static/js/main.6818f8c4.js.map",
+    "787.17c43eeb.chunk.js.map": "/online-grocery/static/js/787.17c43eeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41f6f4b.css",
+    "static/js/main.6818f8c4.js"
+  ]
+}
